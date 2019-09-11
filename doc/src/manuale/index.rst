@@ -1,7 +1,7 @@
 .. GovWay documentation master file
 
-GovPay
-======
+Manuale utente WISP
+===================
 
 Introduzione alla documentazione del prodotto.
 
@@ -9,17 +9,4 @@ Introduzione alla documentazione del prodotto.
    :maxdepth: 2
    :hidden:
 
-   installazione/index
-
-
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-
-   utente/index
-
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-
-   integrazione/index
+   manuale/index
