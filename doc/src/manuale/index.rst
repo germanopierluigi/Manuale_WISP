@@ -9,4 +9,11 @@ Introduzione alla documentazione del prodotto.
    :maxdepth: 2
    :hidden:
 
-   manuale/index
+   Registrazione/index
+
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+
+   FAQ/index
